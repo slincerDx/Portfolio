@@ -2,4 +2,4 @@
 ## Используемые языки:
 - HTML
 - CSS
-- Jquery
+- JavaScript (Jquery)
